@@ -1,0 +1,7 @@
+Honey Badger Animation
+Zero-Frame: 0-0
+Walk Animation: 1-40
+Jump Animation: 41-60
+
+For Ragdoll:
+I'm not sure how a quadriped will work with ragdoll but if you need I can make a chart of the bones names, they're based off of a horses anatomy

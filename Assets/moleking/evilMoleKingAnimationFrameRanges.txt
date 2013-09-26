@@ -1,0 +1,8 @@
+Mole King Animation
+T-Frame: 0-1
+Walk Animation: 5-25
+Jump Animation: 30-55
+
+For Ragdoll:
+All the bones are in the COG, just expand it and attach the bones to the ragdoll
+They are all named correctly except for the Arm which is named as Shoulder
